@@ -1,11 +1,8 @@
-# DIO-Explore-o-Poder-do-NotebookLM
-PROJETO: Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM
-
-
-
 # Caderno Temático: Violência no Brasil
 
-> **Estudo exploratório utilizando o NotebookLM e fontes públicas oficiais**
+PROJETO: Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM
+
+> **Estudo exploratório utilizando o Gemini Notebook e fontes públicas oficiais**
 
 ## 1. Contexto e Objetivos
 
